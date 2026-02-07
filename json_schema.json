@@ -1,0 +1,13 @@
+{
+     "title":"student",
+     "description":"schema about student",
+     "type":"object",
+     "properties":{
+        "name":"string",
+        "age":"integer"
+     },
+     "required":[
+        "name"
+     ]
+}
+//  now we will pass this json schma to the model for ouput 
